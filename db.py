@@ -15,7 +15,7 @@ def database():
 
 
 def update():
-    updater = Updater(token='6267642713:AAH9C0BKY7C56-jrBw6fPVssrl_ElDhM5kU', use_context=True)
+    updater = Updater(token='token', use_context=True)
     return updater 
 
     
